@@ -10,7 +10,7 @@ title: Home
 I'm an Associate Professor in the School of Statistics at the [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/). Perviously, I was a postdoctoral fellow in the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard T.H. Chan School of Public Health, working with [Dr. Xihong Lin](https://content.sph.harvard.edu/xlin/). I obtained my Ph.D. in Statistics from Purdue University in 2017, under the supervision of [Dr. Jun Xie](https://www.stat.purdue.edu/~junxie/). I received my master's degree in Statistics from Renmin University of China in 2014 and my bachelor's degree in Statistics from Beijing Normal University in 2011.
 
 
-I'm broadly interested in developing novel statistical methodology that enables researchers to gain insights from massive and complex genetic datasets (e.g., whole-genome sequencing data). In particular, motivated from the need in genetic association studies, I've been heavily working on developing powerful and scalable testing methods for large-scale hypothesis testing, including p-value combination method, power-robust test, dynamic scan procedure, efficient p-value calculation, and sparse testing.
+I'm broadly interested in developing novel statistical methodology that enables researchers to gain insights from massive and complex genetic datasets (e.g., whole-genome sequencing data). In particular, motivated from the need in genetic association studies, I've been heavily working on developing powerful and scalable testing methods for large-scale hypothesis testing, including p-value combination methods, power-robust tests, dynamic scan procedures, efficient p-value calculation, and sparse testing.
 
 
 
