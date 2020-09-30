@@ -9,7 +9,7 @@ subtitile: Research Highlights
 ### ACAT (Aggregated Cauchy Association Test)
 
 
-ACAT [[R package](https://github.com/yaowuliu/ACAT)] is a generic method that utilizes the Cauchy distribution to effectively combine correlated p-values. It first transforms the individual p-values to Cauchy variables, then takes the (weighted) summation of them as the test statistic. 
+ACAT [[R package](https://github.com/yaowuliu/ACAT)] or Cauchy combination test is a generic method that utilizes the Cauchy distribution to effectively combine correlated p-values. It first transforms the individual p-values to Cauchy variables, then takes the (weighted) summation of them as the test statistic. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/yaowuliu/yaowuliu.github.io/master/assets/ACAT.png" width="500"/>
