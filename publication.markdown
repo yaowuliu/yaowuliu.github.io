@@ -18,7 +18,7 @@ Li, Z., **Liu, Y.**, and Lin, X. (2020+) Simultaneous Detection of Signal Region
 
 ### Statistical Genetics
 
-Li, X., Li, Z., Zhou, H., Gaynor, S.M., **Liu, Y.**, Chen, H.,..., and Lin, X. (2020). Dynamic incorporation of multiple in-silico functional annotations empowers rare variant association analysis of large whole genome sequencing studies at scale. *Nature Genetics*. In press.
+Li, X., Li, Z., Zhou, H., Gaynor, S.M., **Liu, Y.**, Chen, H.,..., and Lin, X. (2020). Dynamic incorporation of multiple in-silico functional annotations empowers rare variant association analysis of large whole genome sequencing studies at scale. *Nature Genetics*. 52, 969–983. [[link]](https://www.nature.com/articles/s41588-020-0676-4)
 
 **Liu, Y.**, Chen, S., Li, Z., Morrison, A.C., Boerwinkle, E., and Lin, X. (2019). ACAT: a fast and powerful p-value combination method for rare-variant analysis in sequencing studies. *The American Journal of Human Genetics.* 104(3), 410-421. [[link]](https://www.sciencedirect.com/science/article/pii/S0002929719300023)[[package]](https://github.com/yaowuliu/ACAT)
 
