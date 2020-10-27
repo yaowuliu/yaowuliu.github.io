@@ -8,7 +8,7 @@ permalink: /publication/
 
 **Liu, Y.**, Li, Z., and Lin, X. (2020+) A Minimax Optimal Ridge-Type Set Test for Global Hypothesis with Applications in Whole Genome Sequencing Association Studies. *Journal of the American Statistical Association.* Accepted. [[link]](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1831926)[[package]](https://github.com/yaowuliu/MORST)
 
-Li, Z., **Liu, Y.**, and Lin, X. (2020+) Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications in Whole Genome Association Studies. *Journal of the American Statistical Association.* Accepted. [[arxiv]](https://arxiv.org/abs/1710.05021)
+Li, Z., **Liu, Y.**, and Lin, X. (2020+) Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications in Whole Genome Association Studies. *Journal of the American Statistical Association.* Accepted. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849)[[arxiv]](https://arxiv.org/abs/1710.05021)
 
 **Liu, Y.** and Xie, J.(2020). Cauchy combination test: a powerful test with analytic p-value calculation under arbitrary dependency structures. *Journal of the American Statistical Association.* 115(529), 393-402. [[link]](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2018.1554485)[[arxiv]](https://arxiv.org/abs/1808.09011)[[package]](https://github.com/yaowuliu/ACAT)
 
