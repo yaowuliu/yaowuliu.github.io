@@ -23,9 +23,9 @@ I'm broadly interested in developing novel statistical methodology that enables 
 
 Yaowu Liu
 
-[yaowuliu615@gmail.com]() / [liuyw@swufe.edu.cn]()
+[yaowuliu615@gmail.com]()
 
-School of Statistics
+Department of Data Science, School of Statistics
 
 Southwestern University of Finance and Economics
 
