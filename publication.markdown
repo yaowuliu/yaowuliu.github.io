@@ -6,9 +6,9 @@ permalink: /publication/
 
 ### Statistics
 
-**Liu, Y.**, Li, Z., and Lin, X. (2020+) A Minimax Optimal Ridge-Type Set Test for Global Hypothesis with Applications in Whole Genome Sequencing Association Studies. ***Journal of the American Statistical Association.*** Accepted. [[link]](https://www.tandfonline.com/eprint/KPRNC4HKPAC8TDHZYEHR/full?target=10.1080/01621459.2020.1831926)[[package]](https://github.com/yaowuliu/MORST)
+**Liu, Y.**, Li, Z., and Lin, X. (2022) A Minimax Optimal Ridge-Type Set Test for Global Hypothesis with Applications in Whole Genome Sequencing Association Studies. ***Journal of the American Statistical Association.*** 117(538), 897-908. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1831926)[[package]](https://github.com/yaowuliu/MORST)
 
-Li, Z., **Liu, Y.**, and Lin, X. (2020+) Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications in Whole Genome Association Studies. ***Journal of the American Statistical Association.*** Accepted. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849)[[arxiv]](https://arxiv.org/abs/1710.05021)
+Li, Z., **Liu, Y.**, and Lin, X. (2022) Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications in Whole Genome Association Studies. ***Journal of the American Statistical Association.*** 117(538), 823-934. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849)[[arxiv]](https://arxiv.org/abs/1710.05021)
 
 **Liu, Y.** and Xie, J.(2020). Cauchy combination test: a powerful test with analytic p-value calculation under arbitrary dependency structures. ***Journal of the American Statistical Association.*** 115(529), 393-402. [[link]](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2018.1554485)[[arxiv]](https://arxiv.org/abs/1808.09011)[[package]](https://github.com/yaowuliu/ACAT)
 
@@ -17,6 +17,8 @@ Li, Z., **Liu, Y.**, and Lin, X. (2020+) Simultaneous Detection of Signal Region
 **Liu, Y.** and Xie, J.(2018). Powerful test based on conditional effects for genome-wide screening. ***The Annals of Applied Statistics.*** 12(1), 567. [[link]](https://projecteuclid.org/euclid.aoas/1520564484)
 
 ### Statistical Genetics
+
+Li, X., Yung, G., Zhou, H., Sun, R., Li, Z., **Liu, Y.**, Ionita-Laza,I., Lin, X. (2022). A Multi-dimensional Integrative Scoring Framework for Predicting Functional Regions in the Human Genome. ***The American Journal of Human Genetics.*** 109(3), 446-456. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0002929722000489)
 
 **Liu, Y.**, Zhang, X., Lee, J., Smelser, D., Cade, B., Chen, H., Zhou, H., Kirchner, H.L., Lin, X., Mukherjee, S., Hillman, D., Liu, C., Redline, S. and, Sofer, T. (2021). Genome-wide association study of neck circumference identifies sex-specific loci independent of generalized adiposity. ***International Journal of Obesity***. 45, 1532-1541. [[link]](https://www.nature.com/articles/s41366-021-00817-2)
 
