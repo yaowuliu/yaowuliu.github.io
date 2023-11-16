@@ -6,6 +6,8 @@ permalink: /publication/
 
 ### Statistics
 
+**Liu, Y.**, Liu, Z., and Lin, X. (2023+) Ensemble methods for testing a global null. ***Journal of the Royal Statistical Society: Series B (Statistical Methodology) .*** In press. [[arxiv]](https://arxiv.org/abs/2310.10407)
+
 **Liu, Y.**, Li, Z., and Lin, X. (2022) A Minimax Optimal Ridge-Type Set Test for Global Hypothesis with Applications in Whole Genome Sequencing Association Studies. ***Journal of the American Statistical Association.*** 117(538), 897-908. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1831926)[[package]](https://github.com/yaowuliu/MORST)
 
 Li, Z., **Liu, Y.**, and Lin, X. (2022) Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications in Whole Genome Association Studies. ***Journal of the American Statistical Association.*** 117(538), 823-934. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849)[[arxiv]](https://arxiv.org/abs/1710.05021)
@@ -17,6 +19,10 @@ Li, Z., **Liu, Y.**, and Lin, X. (2022) Simultaneous Detection of Signal Regions
 **Liu, Y.** and Xie, J.(2018). Powerful test based on conditional effects for genome-wide screening. ***The Annals of Applied Statistics.*** 12(1), 567. [[link]](https://projecteuclid.org/euclid.aoas/1520564484)
 
 ### Statistical Genetics
+
+Li, X., Quick, C., Zhou, H., Gaynor, S., **Liu, Y.**, Chen, H., ..., Li, Z., Lin, X. (2023). Powerful, scalable and resource-efficient meta-analysis of rare variant associations in large whole-genome sequencing studies. ***Nature Genetics***, 55, 155-164. [[link]](https://www.nature.com/articles/s41588-022-01225-6)
+
+Li, Z., Li, X., Zhou, H., Gaynor, S.M., Selvaraj, M., Arapoglou, T., Quick, C., **Liu, Y.**, Chen, H., ..., Lin, X. (2022). A framework for detecting noncoding rare variant associations of large-scale whole-genome sequencing studies. ***Nature Methods***, 19, 1599–1611. [[link]](https://www.nature.com/articles/s41592-022-01640-x)
 
 Li, X., Yung, G., Zhou, H., Sun, R., Li, Z., **Liu, Y.**, Ionita-Laza,I., Lin, X. (2022). A Multi-dimensional Integrative Scoring Framework for Predicting Functional Regions in the Human Genome. ***The American Journal of Human Genetics.*** 109(3), 446-456. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0002929722000489)
 
