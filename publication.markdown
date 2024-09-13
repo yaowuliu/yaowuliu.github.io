@@ -6,7 +6,7 @@ permalink: /publication/
 
 ### Statistics
 
-**Liu, Y.**, Liu, Z., and Lin, X. (2023+) Ensemble methods for testing a global null. ***Journal of the Royal Statistical Society: Series B (Statistical Methodology) .*** In press. [[link]](https://doi.org/10.1093/jrsssb/qkad131)[[arxiv]](https://arxiv.org/abs/2310.10407)[[package]](https://github.com/yaowuliu/EnsembleTests)
+**Liu, Y.**, Liu, Z., and Lin, X. (2024) Ensemble methods for testing a global null. ***Journal of the Royal Statistical Society: Series B (Statistical Methodology) .*** 86(2), 461-486. [[link]](https://doi.org/10.1093/jrsssb/qkad131)[[arxiv]](https://arxiv.org/abs/2310.10407)[[package]](https://github.com/yaowuliu/EnsembleTests)
 
 **Liu, Y.**, Li, Z., and Lin, X. (2022) A Minimax Optimal Ridge-Type Set Test for Global Hypothesis with Applications in Whole Genome Sequencing Association Studies. ***Journal of the American Statistical Association.*** 117(538), 897-908. [[link]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1831926)[[package]](https://github.com/yaowuliu/MORST)
 
