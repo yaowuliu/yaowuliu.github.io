@@ -6,7 +6,7 @@ permalink: /publication/
 
 ### Statistics
 
-**Liu, Y.** and Wang, T. (2025+) A powerful transformation of quantitative responses for biobank-scale association studies. ***Journal of the American Statistical Association.*** To appear. [[arxiv]] (https://arxiv.org/pdf/2507.06496) [[package]](https://github.com/yaowuliu/LPT)
+**Liu, Y.** and Wang, T. (2025+) A powerful transformation of quantitative responses for biobank-scale association studies. ***Journal of the American Statistical Association.*** To appear. [[arxiv]](https://arxiv.org/pdf/2507.06496) [[package]](https://github.com/yaowuliu/LPT)
 
 **Liu, Y.** (2025) A simple and powerful method for large-scale composite null hypothesis testing with applications in mediation analysis. ***Biometrics***, 81(1), ujaf011. [[link]](https://academic.oup.com/biomet/article-abstract/84/2/309/233889)[[package]](https://github.com/yaowuliu/DEI-compo)
 
