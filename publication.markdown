@@ -6,7 +6,7 @@ permalink: /publication/
 
 ### Statistics
 
-**Liu, Y.** and Wang, T. (2025+) A powerful transformation of quantitative responses for biobank-scale association studies. ***Journal of the American Statistical Association.*** To appear. [[arxiv]](https://arxiv.org/pdf/2507.06496) [[package]](https://github.com/yaowuliu/LPT)
+**Liu, Y.** and Wang, T. (2025+) A powerful transformation of quantitative responses for biobank-scale association studies. ***Journal of the American Statistical Association.*** To appear. [[link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083)[[arxiv]](https://arxiv.org/pdf/2507.06496](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083)) [[package]](https://github.com/yaowuliu/LPT)
 
 **Liu, Y.** (2025) A simple and powerful method for large-scale composite null hypothesis testing with applications in mediation analysis. ***Biometrics***, 81(1), ujaf011. [[link]](https://academic.oup.com/biomet/article-abstract/84/2/309/233889)[[package]](https://github.com/yaowuliu/DEI-compo)
 
@@ -43,6 +43,7 @@ Li, Z., Li, X., **Liu, Y.**, Shen, J., Chen, H., Zhou, H., Morrison, A.C., Boerw
 Su, R., Zhang, Q, **Liu, Y.** and Tay, L. (2019). Modeling congruence in organizational research with latent moderated structural equations. ***Journal of Applied Psychology***. 104(11), 1404. [[link]](https://psycnet.apa.org/record/2019-23601-001)
 
 Cao, M., Tay, L. and **Liu, Y.**(2017). A Monte Carlo study of an iterative Wald test procedure for DIF analysis. ***Educational and Psychological Measurement.*** 77(1), 104-118. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0013164416637104)
+
 
 
 
